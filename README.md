@@ -43,6 +43,10 @@ Nous allons utiliser le software de montage vidéo openSource [openShot](https:/
 	- Présentation du dispositif de rangement dynamique basé sur l'idée de "collections personnelles" :  The Wekbank
 	- Présentation technique de "the library work station prototype : the Wekbank" (puces RFID, robots, caméra, interface, espace de travail physique etc)
 	- Réalisation d'une contribution de sélection personnelle pour la librairie en utilisant ce workflow hybride
+- [Web app Invision](https://www.youtube.com/watch?v=vIV9rRIuazE), documentation avec texte
+- [Stinkmoji](https://vimeo.com/258291988), documentation d'une utilisation	
+- Documentation d'un site web avec images par [Area17](https://area17.com/work/simons-foundation-website)
+
 
 ## Exercice pratique 
 Réaliser une vidéo de documentation de votre dispositif.
@@ -54,6 +58,9 @@ Il faudra nous livrer touts les documents que vous aurez réalisé pour aboutir 
 ## Ressources
 - [Exportation vidéo entrelacé ou progressif](http://www.ecole-art-aix.fr/Entrelace-ou-progressif-Quelle)
 - [Formats d'exportation](http://www.serif.com/blog/video-editing-terms-explained-part-5-video-export-formats/)
+- [Siteinspire](https://www.siteinspire.com/)
+- [Awwwards](https://www.awwwards.com/)
+- [Offscreen](https://www.offscreenmag.com/)
 
 ## License
 
