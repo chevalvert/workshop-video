@@ -43,8 +43,8 @@ Nous allons utiliser le software de montage vidéo openSource [openShot](https:/
 	- Présentation du dispositif de rangement dynamique basé sur l'idée de "collections personnelles" :  The Wekbank
 	- Présentation technique de "the library work station prototype : the Wekbank" (puces RFID, robots, caméra, interface, espace de travail physique etc)
 	- Réalisation d'une contribution de sélection personnelle pour la librairie en utilisant ce workflow hybride
-- [Web Invisionapp](https://www.youtube.com/watch?v=vIV9rRIuazE), documentation des fonctinonalités de l'interface avec navigation et texte
-- [Stinkmoji](https://vimeo.com/258291988) web experiment, documentation d'une utilisation	de 
+- [Web Invisionapp](https://www.youtube.com/watch?v=vIV9rRIuazE), documentation des fonctionalités de l'interface avec navigation et texte
+- [Stinkmoji](https://vimeo.com/258291988), documentation du web experiment avec un utilisateur
 - Documentation d'un site web avec images par [Area17](https://area17.com/work/simons-foundation-website)
 
 
