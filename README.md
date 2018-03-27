@@ -4,7 +4,7 @@
 "Le montage est l'art d'exprimer ou de signifier par le rapport de deux plans juxtaposés, de telle sorte que cette juxtaposition fasse naître l'idée ou exprimer quelque chose qui n'est contenu dans aucun des deux plans pris séparément. L'ensemble est supérieur à la somme des parties". Serguei Mikhaïlovitch Eisenstein
 
 [L'effet Koulechov](https://www.youtube.com/watch?v=Mkgwo4GOOVk) est le nom utilisé dans l'audiovisuel pour désigner le biais cognitif qui peut être généré avec un montage vidéo (un biais cognitif est un mécanisme de la pensée, qui cause une déviation du jugement). 
-L'effet Koulechov désigne donc l'influence d'un plan sur le sens du plan qui lui succède dans le montage, avec en retour l’influence de ce denrier plan sur le sens du précédent. C'est donc une « contamination sémantique » à double direction.
+L'effet Koulechov désigne donc l'influence d'un plan sur le sens du plan qui lui succède dans le montage, avec en retour l’influence de ce dernier plan sur le sens du précédent. C'est donc une « contamination sémantique » à double direction.
 
 [Plus de contenus pédagogiques sur l'effet Koulechov](http://www.transmettrelecinema.com/video/leffet-koulechov/)
 
